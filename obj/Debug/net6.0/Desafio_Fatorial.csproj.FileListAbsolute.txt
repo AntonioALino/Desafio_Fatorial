@@ -1,0 +1,15 @@
+D:\C#\JogoNúmeros\Desafio_Fatorial\bin\Debug\net6.0\Desafio_Fatorial.exe
+D:\C#\JogoNúmeros\Desafio_Fatorial\bin\Debug\net6.0\Desafio_Fatorial.deps.json
+D:\C#\JogoNúmeros\Desafio_Fatorial\bin\Debug\net6.0\Desafio_Fatorial.runtimeconfig.json
+D:\C#\JogoNúmeros\Desafio_Fatorial\bin\Debug\net6.0\Desafio_Fatorial.dll
+D:\C#\JogoNúmeros\Desafio_Fatorial\bin\Debug\net6.0\Desafio_Fatorial.pdb
+D:\C#\JogoNúmeros\Desafio_Fatorial\obj\Debug\net6.0\Desafio_Fatorial.csproj.AssemblyReference.cache
+D:\C#\JogoNúmeros\Desafio_Fatorial\obj\Debug\net6.0\Desafio_Fatorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\JogoNúmeros\Desafio_Fatorial\obj\Debug\net6.0\Desafio_Fatorial.AssemblyInfoInputs.cache
+D:\C#\JogoNúmeros\Desafio_Fatorial\obj\Debug\net6.0\Desafio_Fatorial.AssemblyInfo.cs
+D:\C#\JogoNúmeros\Desafio_Fatorial\obj\Debug\net6.0\Desafio_Fatorial.csproj.CoreCompileInputs.cache
+D:\C#\JogoNúmeros\Desafio_Fatorial\obj\Debug\net6.0\Desafio_Fatorial.dll
+D:\C#\JogoNúmeros\Desafio_Fatorial\obj\Debug\net6.0\refint\Desafio_Fatorial.dll
+D:\C#\JogoNúmeros\Desafio_Fatorial\obj\Debug\net6.0\Desafio_Fatorial.pdb
+D:\C#\JogoNúmeros\Desafio_Fatorial\obj\Debug\net6.0\Desafio_Fatorial.genruntimeconfig.cache
+D:\C#\JogoNúmeros\Desafio_Fatorial\obj\Debug\net6.0\ref\Desafio_Fatorial.dll
